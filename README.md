@@ -1,5 +1,5 @@
 <h1 align = "center">Brenno Kayan</h1>
-<div align = "center">
+<div align = "center" justify-content = "center">
           <h2>🌱Atualmente Estudando: 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height = "100px" width = "100px"/>
           </h2>
