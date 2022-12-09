@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/brenno-kayan-ribeiro-de-souza-10271b237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-<a href="https://www.linkedin.com/in/brenno-kayan-ribeiro-de-souza-10271b237/" target="_blank"><img src="https://img.shields.io/badge/-WWW-F200F2?style=for-the-badge&logo=Portifólio&logoColor=white" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/brenno-kayan-ribeiro-de-souza-10271b237/" target="_blank"><img src="https://img.shields.io/badge/WWW-FF0000?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>  
 
 
 </div>
