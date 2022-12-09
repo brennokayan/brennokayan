@@ -6,8 +6,7 @@
 <a href = "mailto:brennok2019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/brenno-kayan-ribeiro-de-souza-10271b237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href = "mailto:brennok2019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://brenno-kayan.netlify.app/" target="_blank"><img src="-->
-https://img.shields.io/appveyor/build/Brenno/https://brenno-kayan.netlify.app:repo" target="_blank"></a>   
+
 </div>
           <h2 align = "center" >🌱Atualmente Estudando: </h2>
 <div align = "center">
