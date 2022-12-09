@@ -1,5 +1,5 @@
 <h1 align = "center">Brenno Kayan</h1>
-          <h2 align = "center">🌱Atualmente Estudando: 
+          <h2 align = "center" align = "justify">🌱Atualmente Estudando: 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height = "100px" width = "100px"/>
           </h2>
           
