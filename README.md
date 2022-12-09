@@ -4,9 +4,9 @@
                     <h3>Universitário:</h3>
                     <p>Cursando Ciência da Computação, pela UNEMAT-BBG</p>
                     <h3>Programação:</h3>
-                    <p>Estudante de programção desde o ensino médio técnico em Informática;</p>
-                    <p>Foco em Web-Desenvolvimento Front-end;</p>
-                    <p>Conhecimento em Back-end também.</p>
+                    <p>Estudante de programção desde o ensino médio técnico em Informática;</br>
+                    Foco em Web-Desenvolvimento Front-end;</br>
+                    Conhecimento em Back-end também.</p>
 </div>  
           <h2 align = "center" >🌱Atualmente Estudando: </h2>
 <div align = "center">
