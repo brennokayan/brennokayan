@@ -1,4 +1,8 @@
 <h1 align = "center">Brenno Kayan</h1>
+          <h2 align = "center" >🌱Sobre Mim: </h2>
+<div align = "center">
+          <h3>Atualmente cursando Ciência da Computação</h3>
+</div>  
           <h2 align = "center" >🌱Atualmente Estudando: </h2>
 <div align = "center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height = "50px" width = "50px"/>
