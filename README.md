@@ -1,5 +1,4 @@
-<h1 align = "center">🧑🏽‍💻Brenno Kayan - <a href = "https://brenno-kayan.netlify.app/" target="_blank" color = "#fff" decoration="none">🌐 - Portifólio</a></h1>
-<span style="text-decoration:underline"><a href = "www.google.com">text</a></span>
+<h1 align = "center">🧑🏽‍💻Brenno Kayan</h1>
 <div align = "center">
                     <h3>Universitário:</h3>
                     <p>Cursando Ciência da Computação, pela UNEMAT-BBG</p>
