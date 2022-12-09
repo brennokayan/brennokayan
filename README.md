@@ -1,4 +1,8 @@
 <h1 align = "center">Brenno Kayan</h1>
+<div align = "center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+</div>
+          
 
 <!--
 **brennokayan/brennokayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
