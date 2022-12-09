@@ -1,6 +1,6 @@
 <h1 align = "center">Brenno Kayan</h1>
           <h2 align = "center" >🌱Atualmente Estudando: </h2>
-          <img align = "justify" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height = "100px" width = "100px"/>
+          <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height = "100px" width = "100px"/>
           
           
 
