@@ -1,13 +1,11 @@
 <h1 align = "center">🧑🏽‍💻Brenno Kayan</h1>
-[portifólio](https://brenno-kayan.netlify.app)
-<div align = "center">
-                    <h3>Universitário:</h3>
-                    <p>Cursando Ciência da Computação, pela UNEMAT-BBG</p>
-                    <h3>Programação:</h3>
-                    <p>Estudante de programção desde o ensino médio técnico em Informática;</br>
-                    Foco em Web-Desenvolvimento Front-end;</br>
-                    Conhecimento em Back-end também.</p>
-</div>  
+<div>
+<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
           <h2 align = "center" >🌱Atualmente Estudando: </h2>
 <div align = "center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height = "50px" width = "50px"/>
