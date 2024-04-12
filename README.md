@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
   </a>
   <a href="https://api.whatsapp.com/send/?phone=5566999552218&text&type=phone_number&app_absent=0">
-    <img src="https://img.shields.io/badge/Phone-66999552218-green?style=for-the-badge&logoColor=white" target="_blank" alt="Phone">
+    <img src="https://img.shields.io/badge/Phone-5566999552218-green?style=for-the-badge&logoColor=white" target="_blank" alt="Phone">
   </a>
   <a href="https://www.linkedin.com/in/brenno-kayan-ribeiro-de-souza-10271b237/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
